@@ -1,5 +1,13 @@
-@media (max-width: 800px) {
-  .flex-container {
-    flex-direction: column;
-  }
+.parrafo {
+  background-color: hwb(0 95% 5%);
+  margin-bottom: 5px;
+  text-align: justify;
 }
+
+.list-group-item {
+  text-decoration: underline;
+}
+
+
+
+
